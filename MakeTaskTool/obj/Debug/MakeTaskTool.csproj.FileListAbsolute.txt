@@ -1,0 +1,11 @@
+C:\Users\Kei\source\repos\MakeTaskTool\MakeTaskTool\bin\Debug\MakeTaskTool.exe.config
+C:\Users\Kei\source\repos\MakeTaskTool\MakeTaskTool\bin\Debug\MakeTaskTool.exe
+C:\Users\Kei\source\repos\MakeTaskTool\MakeTaskTool\bin\Debug\MakeTaskTool.pdb
+C:\Users\Kei\source\repos\MakeTaskTool\MakeTaskTool\obj\Debug\MakeTaskTool.csprojAssemblyReference.cache
+C:\Users\Kei\source\repos\MakeTaskTool\MakeTaskTool\obj\Debug\MakeTaskTool.Form1.resources
+C:\Users\Kei\source\repos\MakeTaskTool\MakeTaskTool\obj\Debug\MakeTaskTool.Properties.Resources.resources
+C:\Users\Kei\source\repos\MakeTaskTool\MakeTaskTool\obj\Debug\MakeTaskTool.csproj.GenerateResource.cache
+C:\Users\Kei\source\repos\MakeTaskTool\MakeTaskTool\obj\Debug\MakeTaskTool.exe
+C:\Users\Kei\source\repos\MakeTaskTool\MakeTaskTool\obj\Debug\MakeTaskTool.pdb
+C:\Users\Kei\source\repos\MakeTaskTool\MakeTaskTool\bin\Debug\template\作業メモ.txt
+C:\Users\Kei\source\repos\MakeTaskTool\MakeTaskTool\bin\Debug\MakeTaskTool.ico

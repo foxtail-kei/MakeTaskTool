@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MakeTaskTool",
+    "\\MakeTaskTool\\bin",
+    "\\MakeTaskTool\\bin\\Debug",
+    "\\MakeTaskTool\\bin\\Debug\\template",
+    "\\MakeTaskTool\\bin\\Release",
+    "\\MakeTaskTool\\bin\\Release\\タスク作成ツール",
+    "\\MakeTaskTool\\obj\\Release",
+    "\\MakeTaskTool\\Properties",
+    "\\MakeTaskTool\\template"
+  ],
+  "SelectedNode": "\\MakeTaskTool\\bin\\Release\\タスク作成ツール",
+  "PreviewInSolutionExplorer": false
+}

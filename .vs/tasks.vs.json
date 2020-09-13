@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "タスク-template",
+      "appliesTo": "MakeTaskTool/template/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "タスク-MakeTaskTool",
+      "appliesTo": "MakeTaskTool.sln",
+      "type": "launch"
+    }
+  ]
+}
